@@ -1,0 +1,7 @@
+Artificial intelligence (AI) is a branch of computer science focused on building systems that can perform tasks that usually require human intelligence. These tasks include language understanding, problem solving, pattern recognition, and decision making.
+
+Machine learning is a popular part of AI. In machine learning, a model is trained on data so it can make predictions on new information. The quality of the model often depends on the quality and quantity of the training data.
+
+Neural networks are inspired by how the human brain processes information. They are made of layers of connected nodes that transform input data into useful outputs. Deep learning uses large neural networks and is commonly used for image recognition and speech processing.
+
+Even though AI can be powerful, responsible use is important. Developers should consider fairness, transparency, and privacy when creating AI systems.
